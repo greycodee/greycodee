@@ -1,5 +1,4 @@
 ## 打工人概览👷
-[![ooooooh灰灰, I'm a backend engineer！](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20backend%20engineer%EF%BC%81&title=ooooooh%E7%81%B0%E7%81%B0)](https://greycode.top)
 
 <img align="center" src="https://skillicons.dev/icons?i=java,python,go,vim,docker,linux,rust&theme=light" />
 
